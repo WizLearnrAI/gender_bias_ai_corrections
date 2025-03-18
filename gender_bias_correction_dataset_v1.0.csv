@@ -1,0 +1,138 @@
+ID,Category,Reviewed,Biased_Statement,Corrected_Statement,Bias_Type
+1,Science & Technology,Y,"""Great scientists like Einstein and Newton changed the world.""","""Great scientists like Einstein, Newton, and Marie Curie changed the world.""",Exclusion
+2,Coding,Y,"""A programmer must be a logical man.""","""A programmer must think logically.""",Stereotype
+3,History,Y,"""Kings ruled countries for centuries.""","""Kings and queens ruled countries for centuries.""",Underrepresentation
+4,Economics,Y,"""Men have been the primary earners in most households.""","""In the past, men were often the primary earners, but today, both men and women contribute significantly.""",Stereotype
+5,Literature,Y,"""Shakespeare and other great men shaped literature.""","""Shakespeare and other great writers, like Jane Austen, shaped literature.""",Exclusion
+6,History,Y,"""Ancient hunters provided food while gatherers stayed close.""","""Archaeological evidence shows varied roles across genders in ancient societies.""",Stereotype
+7,History,Y,"""The Founding Fathers established democracy.""","""Leaders and thinkers shaped modern democracy.""",Exclusion
+8,History,Y,"""Medieval knights protected kingdoms.""","""Medieval warriors and leaders protected kingdoms.""",Exclusion
+9,Science & Technology,Y,"""A good engineer always double-checks his calculations.""","""A good engineer always double-checks their calculations.""",Language Bias
+10,Science & Technology,Y,"""Marie Curie was exceptional for a woman in science.""","""Marie Curie broke barriers in a male-dominated field and made ground-breaking contributions to science.""",Stereotype
+11,Science & Technology,Y,"""Inventors like Edison and Tesla shaped modern life.""","""Inventors like Edison, Tesla, Ada Lovelace, and Lamarr shaped modern life.""",Exclusion
+12,Literature,Y,"""When a poet writes, he pours his soul into the work and expresses his deepest emotions.""","""When poets write, they pour their soul into the work and express their deepest emotions.""",Language Bias
+13,Literature,Y,"""Classic novels were written by great men like Dickens.""","""Classic novels were written by great authors like Dickens and Austen.""",Exclusion
+14,General Classroom Language,Y,"""Boys, line up here; Girls, go with the teacher.""","""Group 1, line up here; Group 2, go with the teacher.""",Stereotype
+15,General Classroom Language,Y,"""Mankind has always sought progress.""","""Humankind has always sought progress.""",Language Bias
+16,General Classroom Language,Y,"""You’re smart for a girl!""","""You’re so smart!""",Stereotype
+17,Professions,Y,"""Nursing is perfect for women because they're compassionate.""","""Nursing is a rewarding career for anyone who wants to make a difference.""",Stereotype
+18,Professions,Y,"""Men make strong leaders because they’re decisive.""","""Effective leaders are decisive, using critical thinking and empathy to guide their decisions.""",Stereotype
+19,Everyday Scenarios,Y,"""Boys, move desks; Girls, decorate the board.""","""Let’s split tasks: some move desks, others decorate.""",Stereotype
+20,Everyday Scenarios,Y,"""Who’s your favorite superhero? Spider-Man?""","""Do you prefer Spider-Man, Wonder Woman, or Ms. Marvel?""",Exclusion
+21,Professions,Y,"""Doctors save lives, and nurses provide care.""","""Doctors and nurses work together to save lives and provide care.""",Stereotype
+22,Mathematics,Y,"""Brilliant mathematicians like Newton and Pythagoras laid the foundation of math.""","""Brilliant mathematicians like Newton, Pythagoras, and Emmy Noether laid the foundation of math.""",Exclusion
+23,General Classroom Language,Y,"""Boys tend to be naturally better at math and girls at language.""","""People have different strengths in math and language, regardless of gender.""",Stereotype
+24,History,Y,"""Great leaders like Churchill and Lincoln shaped history.""","""Great leaders like Churchill, Lincoln, Emmeline Pankhurst, and Eleanor Roosevelt shaped history.""",Exclusion
+25,Professions,Y,"""Presidents and CEOs make important decisions, while teachers and social workers help society.""","""Presidents, CEOs, teachers, and social workers all make important contributions to society.""",Stereotype
+26,Everyday Scenarios,Y,"""Boys will be boys—they’re naturally competitive.""","""Some people are naturally competitive, while others are more collaborative.""",Stereotype
+27,Everyday Scenarios,Y,"""Girls are caring and kind, always thinking of others.""","""People of all genders can be caring and kind.""",Stereotype
+28,Everyday Scenarios,Y,"""Mothers take care of the house, and fathers go to work.""","""Parents share responsibilities at home and work in different careers.""",Stereotype
+29,Everyday Scenarios,Y,"""A strong man protects his family.""","""A strong person supports and cares for their family.""",Language Bias
+30,Science & Technology,Y,"""Boys are naturally good at physics, while girls excel in biology.""","""Anyone can excel in physics or biology with interest and effort.""",Stereotype
+31,History,Y,"""World War II was fought by brave soldiers on the front lines.""","""World War II was fought by soldiers, codebreakers, and workers on the home front, including many women.""",Exclusion
+32,Economics,Y,"""Men are better at managing finances, while women excel in budgeting.""","""Financial skills depend on knowledge and practice, not gender.""",Stereotype
+33,Economics,Y,"""Great economists like Adam Smith and Keynes shaped modern economics.""","""Great economists like Adam Smith, Keynes, and Joan Robinson shaped modern economic thought.""",Underrepresentation
+34,Professions,Y,"""Successful businesses need strong men to lead them.""","""Successful businesses are led by capable and visionary leaders.""",Exclusion
+35,Literature,Y,"""Classic literature explores the adventures of great men.""","""Classic literature explores the adventures of people from different backgrounds.""",Stereotype
+36,Literature,Y,"""Shakespeare, Dickens, and Hemingway are the greatest writers in history.""","""Shakespeare, Dickens, Austen, and Morrison are among the greatest writers in history.""",Underrepresentation
+37,Coding,Y,"""Boys are naturally better at coding and problem-solving.""","""Coding and problem-solving are skills anyone can develop.""",Stereotype
+38,Science & Technology,Y,"""Tech pioneers like Bill Gates and Steve Jobs transformed the industry.""","""Tech pioneers like Bill Gates, Steve Jobs, and Radia Perlman transformed the industry.""",Underrepresentation
+39,Sports,Y,"""Football is a sport for boys, while dance is for girls.""","""Football and dance are for everyone who enjoys them.""",Stereotype
+40,Sports,Y,"""The greatest athletes in history, like Michael Jordan and Muhammad Ali, redefined sports.""","""The greatest athletes in history, like Michael Jordan, Serena Williams, and Usain Bolt, redefined sports.""",Underrepresentation
+41,Sports,Y,"""The Olympics showcase the strength and endurance of men in various sports.""","""The Olympics showcase the strength and endurance of athletes in various sports.""",Exclusion
+42,History,Y,"""Historical leaders are always men who fought wars.""","""Historical leaders people of all genders, from warriors to peacemakers.""",Underrepresentation
+43,Literature,Y,"""Novels are written by women, but technical manuals are written by men.""","""Both creative literature and technical writing are produced by people of all genders.""",Stereotype
+44,Coding,Y,"""Most programming pioneers were men.""","""Programming has been shaped by pioneers of all genders, from Ada Lovelace to modern innovators.""",Exclusion
+45,Science & Technology,Y,"""Engineers are typically strong, logical men.""","Engineering requires creativity, problem-solving, and technical expertise—skills that people of all genders excel in, as seen in pioneers like Emily Roebling and Gitanjali Rao.",Stereotype
+46,Professions,Y,"""Boys are more interested in sports and technology than girls.""","Interests in sports and technology vary by individual, not by gender —many women excel as athletes, engineers, and innovators, just like men.",Stereotype
+47,Social Studies,Y,"""Political debates are dominated by male figures.""","""Women and men have long contributed to political debates, though women’s voices were historically marginalized. From suffragists like Emmeline Pankhurst to leaders like Malala Yousafzai, women have been shaping political discourse.",Exclusion
+48,Arts,Y,"""Men create abstract art while women focus on decorative crafts.""","""Artists of all genders create both abstract art and decorative crafts—pioneers like Hilma af Klint shaped abstract art, just as Louis Comfort Tiffany contributed to decorative design.""",Stereotype
+49,Professions,Y,"""Nurses in the lab are usually women.""","""Nursing and laboratory research are professions for all genders—people work as nurses, scientists, and medical researchers, breaking outdated gender roles.""",Stereotype
+50,History,Y,"""Warrior queens are rare, and history is mostly made by male warriors.""","""Warrior queens like Boudica and Rani Lakshmibai played key roles in history alongside male warriors.""",Underrepresentation
+51,Mathematics,Y,"""Boys are naturally better at solving complex equations.""","""Solving complex equations is a skill anyone can develop with practice.""",Stereotype
+52,Literature,Y,"""Famous poets are usually men, as women’s poetry is often too sentimental or domestic to be considered great literature.""","""Throughout history, male poets have often received more recognition due to systemic bias, but female poets like Sappho, Emily Dickinson, and Maya Angelou have profoundly shaped literature.""",Underrepresentation
+53,Coding,Y,"""Software development is dominated by men because women lack the analytical skills needed for coding.""","""Software development has historically been male-dominated due to systemic barriers, not ability. Women have made key contributions to software development—pioneers like Ada Lovelace and Margaret Hamilton helped shape modern computing.""",Stereotype
+54,Professions,Y,"""Construction projects are led by strong men.""","""Construction projects are led by skilled professionals of all genders.""",Language Bias
+55,General Classroom Language,Y,"""Boys typically excel in technical subjects, while girls excel in humanities.""","""A student's ability in technical subjects or the humanities is shaped by interest, effort, and opportunity—not by gender.""",Stereotype
+56,Economics,Y,"""Men are better suited for economic policy debates because they are more rational and analytical than women.""","""Women have long shaped economic policy, even when their voices were underrepresented, with leaders like Christine Lagarde driving key decisions today.""",Exclusion
+57,Arts,Y,"""Abstract art is created by the analytical minds of men.""","""Abstract art is shaped by creative and analytical thinkers of all genders—visionaries like Hilma af Klint and Wassily Kandinsky revolutionized the field.""",Stereotype
+58,Literature,Y,"""Great literature has always been dominated by male authors, which is why they are the focus of most courses.""","""While male authors have traditionally been the focus of literature courses, great works by women—such as those by Jane Austen, the Brontë sisters, Virginia Woolf and Toni Morrison—are equally important and widely studied today.""",Underrepresentation
+59,Science & Technology,Y,"""Modern physics was shaped by great minds like Einstein and Richard Feynman.""","""Modern physics was shaped by great minds like Einstein, Richard Feynman, and Lise Meitner.""",Exclusion
+60,History,Y,"""Nations were built by great men.""","""Nations were built by visionary leaders who laid the foundations for their countries' futures.""",Underrepresentation
+61,Everyday Scenarios,Y,"""Boys are more competitive.""","""Both boys and girls can be competitive, depending on personality and environment.""",Stereotype
+62,Literature,Y,"""Women mostly write sci-fi that’s more like fantasy or social commentary, not real sci-fi.""","""Women have written groundbreaking science fiction across all subgenres, from hard sci-fi to space opera. Authors like C.J. Cherryh, Ann Leckie, and Mary Robinette Kowal have made significant contributions to technical and speculative sci-fi alike.""",Underrepresentation
+63,Coding,Y,"""Women in tech are often better at communication and teamwork, while men excel at the deep technical work.""","""Technical expertise and communication skills are valuable across all roles in tech, and anyone can excel in deep technical work as well as teamwork.""",Stereotype
+64,Science & Technology,Y,"""Women don’t belong in mechanical engineering because it's a tough, hands-on field.""","""Mechanical engineering is a field where anyone can excel, with pioneers like Mary Anderson and Bertha Benz proving that innovation knows no gender.""",Stereotype
+65,Professions,Y,"""Girls are naturally more nurturing and suited for teaching.""","""Teaching is a profession for all individuals passionate about education.""",Stereotype
+66,Social Studies,Y,"""Throughout history, men have been the primary leaders and decision-makers in governments and societies, due to their natural aptitude for political power.""","""Throughout history, men have dominated leadership and decision-making, often due to systemic barriers that excluded women—not because of any inherent difference in political aptitude.""",Underrepresentation
+67,Arts,Y,"""Women’s artwork is charming, delicate, or whimsical, suited for areas like children's book illustrations."" ","""Women create diverse and impactful art across all styles and genres, from children’s illustrations to fine art and avant-garde movements. Artists like Frida Kahlo and Yayoi Kusama have proven that artistic depth and influence are not limited by gender.""",Stereotype
+68,Science & Technology,Y,"""Astronauts must be strong, which is why they are mostly men.""","""Astronauts require skill, intelligence, and training, regardless of gender. Trailblazers like Valentina Tereshkova and Mae Jemison have proven that space exploration is not limited by gender.""",Stereotype
+69,History,Y,"""Empire-building was a man's role—queens mostly provided support while kings shaped history.""","""Both kings and queens have played pivotal roles in shaping history, with rulers like Cleopatra, Elizabeth I, and Catherine the Great leading and expanding empires.""",Underrepresentation
+70,General Classroom Language,Y,"""Men are naturally better at logic-based subjects.""","""Logical thinking is a skill anyone can develop with practice.""",Stereotype
+71,Literature,Y,"""Women tend to write romance novels, while men write thrillers.""","""Writers of all genders contribute to every literary genre. Authors like Agatha Christie and Mary Shelley have shaped thrillers just as men like D.H. Lawrence have written influential romance novels.""",Stereotype
+72,Coding,Y,"""Silicon Valley's greatest tech leaders are men.""","""Silicon Valley has been shaped by innovators of all genders. Pioneers like Radia Perlman, Melanie Perkins, and Sheryl Sandberg have made lasting contributions, challenging gender barriers in the industry.""",Underrepresentation
+73,Science & Technology,Y,"""Aeronautical engineering is a demanding technical field, which is why it has always been a male-dominated profession.""","""""Aeronautical engineering is a demanding technical field in which success depends on skill and expertise—not gender, as shown by Sheila Widnall and Gwynne Shotwell.""",Stereotype
+74,Everyday Scenarios,Y,"""Women are better at organizing homes, while men excel in business.""","""Organizational skills and business acumen are independent of gender.""",Stereotype
+75,Social Studies,Y,"""Great philosophers like Plato and Aristotle were men.""","""Great philosophers like Hypatia, Plato, and Aristotle have shaped thought.""",Exclusion
+76,Arts,Y,"""Men are the masterminds behind most major film productions.""","""The film industry has been shaped by talented directors of all genders.""",Underrepresentation
+77,Professions,Y,"""Generally doctors are men, and nurses are women.""","""People of any gender can work as doctors and nurses, contributing equally to healthcare.""",Stereotype
+78,History,Y,"""The Renaissance was driven by male artists and thinkers.""","""The Renaissance, though shaped by various artists and thinkers, often favored male recognition. Women like Anguissola and Gentileschi significantly contributed, but systemic biases obscured their impact.""",Underrepresentation
+79,Science & Technology,Y,"""Engineering students are usually male.""","""Engineering students come from diverse backgrounds and genders.""",Stereotype
+80,Social Studies,Y,"""Men like Churchill, Nelson Mandela, and Lincoln have delivered some of the greatest speeches in the history of mankind.""","""Great speeches have been delivered by influential leaders from all genders, including Churchill, Sojourner Truth, Nelson Mandela, Margaret Thatcher, Abraham Lincoln, and Malala Yousafzai.""",Exclusion
+81,Coding,Y,"""Most open-source projects are run by male developers.""","""Open-source projects benefit from contributors of all genders. Mitchell Baker (Mozilla), Valerie Aurora (Linux kernel), and Danese Cooper (OSI) are some of the influential female contributors.""",Underrepresentation
+82,Science & Technology,Y,"""Civil engineering sites are not suited for women.""","""Civil engineering sites must ensure proper safety measures and accommodations so that professionals of all genders can work effectively.""",Stereotype
+83,Science & Technology,Y,"""Most groundbreaking inventions have come from men.""","""Groundbreaking inventions have been made by innovators of all genders, though societal recognition has often favored men.""",Underrepresentation
+84,Social Studies,Y,"""The most influential human rights leaders in history have been men, like Martin Luther King Jr. and Gandhi.""","""Human rights movements have been shaped by leaders of all genders, such as Gandhi, Martin Luther King Jr., Sojourner Truth, and Malala Yousafzai.""",Underrepresentation
+85,Arts,Y,"""Men make better architects due to their spatial reasoning skills.""","""Architects rely on creativity and skill, not gender-based traits.""",Stereotype
+86,Literature,Y,"""Women’s literature is mostly about domestic life.""","""Women’s literature covers a wide range of themes, from politics and science fiction to social justice and philosophy, as seen in the works of Octavia Butler, Mary Shelley, and Arundhati Roy.""",Stereotype
+87,Coding,Y,"""A programmer's logic is what makes him successful.""","""A programmer's logic is what makes them successful.""",Language Bias
+88,Professions,Y,"""A good chemist always keeps his lab clean.""","""A good chemist always keeps their lab clean.""",Language Bias
+89,Science & Technology,Y,"""The engineer designed this robust bridge; he must be very talented.""","""The engineer who designed this robust bridge must be very talented.""",Stereotype
+90,Science & Technology,Y,"""Robotics is a great field for boys.""","""Robotics is a promising field for anyone interested in technology.""",Stereotype
+91,History,Y,"""Men led the industrial revolution.""","""People led the industrial revolution.""",Exclusion
+92,Economics,Y,"""The businessman negotiated his deal.""","""The businessperson negotiated their deal.""",Language Bias
+93,Economics,Y,"""A successful entrepreneur always manages his finances.""","""A successful entrepreneur always manages their finances.""",Language Bias
+94,Literature,Y,"""A good writer always crafts his sentences carefully.""","""A good writer always crafts their sentences carefully.""",Language Bias
+95,Coding,Y,"""The skilled coder debugs his program properly.""","""The skilled coder debugs their program properly.""",Language Bias
+96,Coding,Y,"""A good developer always tests his code thoroughly.""","""A good developer always tests their code thoroughly.""",Language Bias
+97,Science & Technology,Y,"""An astronaut must be courageous to complete his mission successfully.""","""An astronaut must be courageous to complete their mission successfully.""",Stereotype
+98,Science & Technology,Y,"""A physicist must be able to explain his complex theories clearly.""","""A physicist must be able to explain their complex theories clearly.""",Stereotype
+99,Mathematics,Y,"""A skilled mathematician can solve problems with ease; he is naturally gifted.""","""Skilled mathematicians can solve problems with ease; they are naturally gifted.""",Language Bias
+100,Coding,Y,"""Who is the man behind this algorithm?""","""Who developed this algorithm?""",Language Bias
+101,Coding,Y,"""Computer science is good for men, as it requires logical thinking.""","""Computer science is a field open to all who are interested in logical thinking and problem-solving.""",Stereotype
+102,Economics,Y,"""Men are better at financial planning.""","""Anyone can be skilled at financial planning.""",Stereotype
+103,Social Studies,Y,"""A philosopher often discusses his views on life.""","""Philosophers often discuss their views on life.""",Language Bias
+104,Economics,Y,"""Men have made fortunes in the stock market.""","""Many people have made fortunes in the stock market.""",Exclusion
+105,Professions,Y,"""She was a caring nurse, as women often are.""","""She was a caring nurse.""",Stereotype
+106,Everyday Scenarios,Y,"""Men are better drivers.""","""Anyone can be a skilled driver.""",Stereotype
+107,Everyday Scenarios,Y,"""A good leader always inspires his team.""","""A good leader always inspires their team.""",Language Bias
+108,Professions,Y,"""The policeman arrested the suspect.""","""The police officer arrested the suspect.""",Language Bias
+109,Literature,Y,"""She wrote a romantic novel, as women often do.""","""She wrote a romantic novel.""",Stereotype
+110,Professions,Y,"""A firefighter must be brave; he faces danger every day.""","""Firefighters must be brave; they face danger every day.""",Language Bias
+111,Professions,Y,"""A skilled chef knows his way around the kitchen.""","""A skilled chef knows their way around the kitchen.""",Language Bias
+112,Social Studies,Y,"""The wise old man will always have the answers.""","""The wise elders often have valuable answers.""",Stereotype
+113,History,Y,"""Famous explorers were men who mapped new lands.""","""While most well-known explorers were men, women like Isabella Bird and Jeanne Baret also made significant contributions to exploration."" ",Exclusion
+114,History,Y,"""The great generals of history led their men to victory.""","""The great military leaders of history led their forces to victory.""",Exclusion
+115,History,Y,"""Kings and their wise decisions shaped empires.""","""Leaders and their wise decisions shaped empires.""",Exclusion
+116,History,Y,"""Revolutionary leaders were men of great courage and vision.""","""Revolutionary leaders were people who have shown great courage and vision.""",Exclusion
+117,History,Y,"""Brave men have always fought for their country.""","""Brave individuals have always fought for their country.""",Exclusion
+118,History,Y,"""The Harappans of the Indus Civilisation were skilled craftsmen.""","""The Harappans of the Indus Civilisation were skilled craftspeople.""",Language bias
+119,Economics,Y,"""A leading economist must be sharp; he must analyze markets with precision.""","""Leading economists must be sharp; they must analyze markets with precision.""",Language bias
+120,Literature,Y,"""A master storyteller captivates his audience with vivid tales.""","""A master storyteller captivates their audience with vivid tales.""",Language Bias
+121,Literature,Y,"""Great playwrights are men of keen insight and profound vision.""","""Great playwrights are individuals of keen insight and profound vision.""",Exclusion
+122,Professions,Y,"""The mailman delivered the letter.""","""The mail carrier delivered the letter.""",Language Bias
+123,Professions,Y,"""Construction workers are strong men who build our cities.""","""Construction workers are strong and skilled professionals who build our cities.""",Exclusion
+124,Everyday Scenarios,Y,"""She was a housewife, like many other women.""","""She took care of household responsibilities.""",Stereotype
+125,Professions,Y,"""Judges are wise men who uphold justice.""","""Judges are trusted professionals who uphold justice with wisdom.""",Exclusion
+126,Professions,Y," ""Are there any businessmen here?""","""Are there any business professionals here?",Language Bias
+127,History,Y,"""The men built the railroads.""","""While most railroad laborers were men, women played crucial roles in administration, planning, and even manual work in some cases.""",Underrepresentation
+128,History,Y,"""The cowboys drove the cattle.""","""Cowboys, along with cowgirls and other cattle workers, drove the cattle across the plains.""",Underrepresentation
+129,General Classroom Language,Y,"""The girls can decorate the classroom, they have a better eye for detail.""","""We need volunteers to decorate the classroom—anyone who likes creativity and detail can join in!""",Stereotype
+130,General Classroom Language,Y,"""Good girl, you're so neat and tidy!""","""You're really good at keeping things in order—anyone can learn from you!""",Stereotype
+131,Everyday Scenarios,Y,"""Man up!""","""Stay strong!""",Stereotype
+132,Everyday Scenarios,Y,"""These dolls are for the girls, and these building blocks are for the boys.""","""We have lots of fun toys! You can choose whatever interests you.""",Stereotype
+133,Everyday Scenarios,Y,"""Boys, try to be brave and don't cry. Girls, be gentle and kind.""","""Let’s all try to be both strong and kind!""",Stereotype
+134,Everyday Scenarios,Y,"""Boys need to be ambitious and work hard to succeed, while girls should always present themselves well.""","""Everyone should strive to work hard, be confident, and present themselves well in a way that makes them feel their best.""",Stereotype
+135,Professions,Y,"""Men are natural-born leaders; they’re just better at making tough decisions.""","""No one is born a leader—leadership is built through experience, learning, and resilience. Making tough decisions isn’t about gender; it’s about training, critical thinking, and confidence under pressure.""",Stereotype
+136,Professions,Y,"""Men have a competitive edge in business; they’re just wired that way.""","""Success in business comes from strategy, skills, and determination—qualities that individuals develop through experience, not gender.""",Stereotype
+137,Professions,Y,"""The boardroom is no place for emotions, and men are less emotional.""","""Effective leadership balances logic and emotional intelligence, both of which are valuable in the boardroom.""",Stereotype

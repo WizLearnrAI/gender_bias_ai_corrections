@@ -1,0 +1,1098 @@
+[
+    {
+        "ID": "1",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Great scientists like Einstein and Newton changed the world.\"",
+        "Corrected_Statement": "\"Great scientists like Einstein, Newton, and Marie Curie changed the world.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "2",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A programmer must be a logical man.\"",
+        "Corrected_Statement": "\"A programmer must think logically.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "3",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Kings ruled countries for centuries.\"",
+        "Corrected_Statement": "\"Kings and queens ruled countries for centuries.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "4",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men have been the primary earners in most households.\"",
+        "Corrected_Statement": "\"In the past, men were often the primary earners, but today, both men and women contribute significantly.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "5",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Shakespeare and other great men shaped literature.\"",
+        "Corrected_Statement": "\"Shakespeare and other great writers, like Jane Austen, shaped literature.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "6",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Ancient hunters provided food while gatherers stayed close.\"",
+        "Corrected_Statement": "\"Archaeological evidence shows varied roles across genders in ancient societies.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "7",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The Founding Fathers established democracy.\"",
+        "Corrected_Statement": "\"Leaders and thinkers shaped modern democracy.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "8",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Medieval knights protected kingdoms.\"",
+        "Corrected_Statement": "\"Medieval warriors and leaders protected kingdoms.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "9",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A good engineer always double-checks his calculations.\"",
+        "Corrected_Statement": "\"A good engineer always double-checks their calculations.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "10",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Marie Curie was exceptional for a woman in science.\"",
+        "Corrected_Statement": "\"Marie Curie broke barriers in a male-dominated field and made ground-breaking contributions to science.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "11",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Inventors like Edison and Tesla shaped modern life.\"",
+        "Corrected_Statement": "\"Inventors like Edison, Tesla, Ada Lovelace, and Lamarr shaped modern life.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "12",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"When a poet writes, he pours his soul into the work and expresses his deepest emotions.\"",
+        "Corrected_Statement": "\"When poets write, they pour their soul into the work and express their deepest emotions.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "13",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Classic novels were written by great men like Dickens.\"",
+        "Corrected_Statement": "\"Classic novels were written by great authors like Dickens and Austen.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "14",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys, line up here; Girls, go with the teacher.\"",
+        "Corrected_Statement": "\"Group 1, line up here; Group 2, go with the teacher.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "15",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Mankind has always sought progress.\"",
+        "Corrected_Statement": "\"Humankind has always sought progress.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "16",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"You\u2019re smart for a girl!\"",
+        "Corrected_Statement": "\"You\u2019re so smart!\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "17",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Nursing is perfect for women because they're compassionate.\"",
+        "Corrected_Statement": "\"Nursing is a rewarding career for anyone who wants to make a difference.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "18",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men make strong leaders because they\u2019re decisive.\"",
+        "Corrected_Statement": "\"Effective leaders are decisive, using critical thinking and empathy to guide their decisions.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "19",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys, move desks; Girls, decorate the board.\"",
+        "Corrected_Statement": "\"Let\u2019s split tasks: some move desks, others decorate.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "20",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Who\u2019s your favorite superhero? Spider-Man?\"",
+        "Corrected_Statement": "\"Do you prefer Spider-Man, Wonder Woman, or Ms. Marvel?\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "21",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Doctors save lives, and nurses provide care.\"",
+        "Corrected_Statement": "\"Doctors and nurses work together to save lives and provide care.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "22",
+        "Category": "Mathematics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Brilliant mathematicians like Newton and Pythagoras laid the foundation of math.\"",
+        "Corrected_Statement": "\"Brilliant mathematicians like Newton, Pythagoras, and Emmy Noether laid the foundation of math.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "23",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys tend to be naturally better at math and girls at language.\"",
+        "Corrected_Statement": "\"People have different strengths in math and language, regardless of gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "24",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Great leaders like Churchill and Lincoln shaped history.\"",
+        "Corrected_Statement": "\"Great leaders like Churchill, Lincoln, Emmeline Pankhurst, and Eleanor Roosevelt shaped history.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "25",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Presidents and CEOs make important decisions, while teachers and social workers help society.\"",
+        "Corrected_Statement": "\"Presidents, CEOs, teachers, and social workers all make important contributions to society.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "26",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys will be boys\u2014they\u2019re naturally competitive.\"",
+        "Corrected_Statement": "\"Some people are naturally competitive, while others are more collaborative.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "27",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Girls are caring and kind, always thinking of others.\"",
+        "Corrected_Statement": "\"People of all genders can be caring and kind.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "28",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Mothers take care of the house, and fathers go to work.\"",
+        "Corrected_Statement": "\"Parents share responsibilities at home and work in different careers.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "29",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A strong man protects his family.\"",
+        "Corrected_Statement": "\"A strong person supports and cares for their family.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "30",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys are naturally good at physics, while girls excel in biology.\"",
+        "Corrected_Statement": "\"Anyone can excel in physics or biology with interest and effort.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "31",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"World War II was fought by brave soldiers on the front lines.\"",
+        "Corrected_Statement": "\"World War II was fought by soldiers, codebreakers, and workers on the home front, including many women.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "32",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men are better at managing finances, while women excel in budgeting.\"",
+        "Corrected_Statement": "\"Financial skills depend on knowledge and practice, not gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "33",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Great economists like Adam Smith and Keynes shaped modern economics.\"",
+        "Corrected_Statement": "\"Great economists like Adam Smith, Keynes, and Joan Robinson shaped modern economic thought.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "34",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Successful businesses need strong men to lead them.\"",
+        "Corrected_Statement": "\"Successful businesses are led by capable and visionary leaders.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "35",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Classic literature explores the adventures of great men.\"",
+        "Corrected_Statement": "\"Classic literature explores the adventures of people from different backgrounds.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "36",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Shakespeare, Dickens, and Hemingway are the greatest writers in history.\"",
+        "Corrected_Statement": "\"Shakespeare, Dickens, Austen, and Morrison are among the greatest writers in history.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "37",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys are naturally better at coding and problem-solving.\"",
+        "Corrected_Statement": "\"Coding and problem-solving are skills anyone can develop.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "38",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Tech pioneers like Bill Gates and Steve Jobs transformed the industry.\"",
+        "Corrected_Statement": "\"Tech pioneers like Bill Gates, Steve Jobs, and Radia Perlman transformed the industry.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "39",
+        "Category": "Sports",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Football is a sport for boys, while dance is for girls.\"",
+        "Corrected_Statement": "\"Football and dance are for everyone who enjoys them.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "40",
+        "Category": "Sports",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The greatest athletes in history, like Michael Jordan and Muhammad Ali, redefined sports.\"",
+        "Corrected_Statement": "\"The greatest athletes in history, like Michael Jordan, Serena Williams, and Usain Bolt, redefined sports.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "41",
+        "Category": "Sports",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The Olympics showcase the strength and endurance of men in various sports.\"",
+        "Corrected_Statement": "\"The Olympics showcase the strength and endurance of athletes in various sports.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "42",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Historical leaders are always men who fought wars.\"",
+        "Corrected_Statement": "\"Historical leaders people of all genders, from warriors to peacemakers.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "43",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Novels are written by women, but technical manuals are written by men.\"",
+        "Corrected_Statement": "\"Both creative literature and technical writing are produced by people of all genders.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "44",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Most programming pioneers were men.\"",
+        "Corrected_Statement": "\"Programming has been shaped by pioneers of all genders, from Ada Lovelace to modern innovators.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "45",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Engineers are typically strong, logical men.\"",
+        "Corrected_Statement": "Engineering requires creativity, problem-solving, and technical expertise\u2014skills that people of all genders excel in, as seen in pioneers like Emily Roebling and Gitanjali Rao.",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "46",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys are more interested in sports and technology than girls.\"",
+        "Corrected_Statement": "Interests in sports and technology vary by individual, not by gender \u2014many women excel as athletes, engineers, and innovators, just like men.",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "47",
+        "Category": "Social Studies",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Political debates are dominated by male figures.\"",
+        "Corrected_Statement": "\"Women and men have long contributed to political debates, though women\u2019s voices were historically marginalized. From suffragists like Emmeline Pankhurst to leaders like Malala Yousafzai, women have been shaping political discourse.",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "48",
+        "Category": "Arts",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men create abstract art while women focus on decorative crafts.\"",
+        "Corrected_Statement": "\"Artists of all genders create both abstract art and decorative crafts\u2014pioneers like Hilma af Klint shaped abstract art, just as Louis Comfort Tiffany contributed to decorative design.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "49",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Nurses in the lab are usually women.\"",
+        "Corrected_Statement": "\"Nursing and laboratory research are professions for all genders\u2014people work as nurses, scientists, and medical researchers, breaking outdated gender roles.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "50",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Warrior queens are rare, and history is mostly made by male warriors.\"",
+        "Corrected_Statement": "\"Warrior queens like Boudica and Rani Lakshmibai played key roles in history alongside male warriors.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "51",
+        "Category": "Mathematics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys are naturally better at solving complex equations.\"",
+        "Corrected_Statement": "\"Solving complex equations is a skill anyone can develop with practice.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "52",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Famous poets are usually men, as women\u2019s poetry is often too sentimental or domestic to be considered great literature.\"",
+        "Corrected_Statement": "\"Throughout history, male poets have often received more recognition due to systemic bias, but female poets like Sappho, Emily Dickinson, and Maya Angelou have profoundly shaped literature.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "53",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Software development is dominated by men because women lack the analytical skills needed for coding.\"",
+        "Corrected_Statement": "\"Software development has historically been male-dominated due to systemic barriers, not ability. Women have made key contributions to software development\u2014pioneers like Ada Lovelace and Margaret Hamilton helped shape modern computing.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "54",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Construction projects are led by strong men.\"",
+        "Corrected_Statement": "\"Construction projects are led by skilled professionals of all genders.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "55",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys typically excel in technical subjects, while girls excel in humanities.\"",
+        "Corrected_Statement": "\"A student's ability in technical subjects or the humanities is shaped by interest, effort, and opportunity\u2014not by gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "56",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men are better suited for economic policy debates because they are more rational and analytical than women.\"",
+        "Corrected_Statement": "\"Women have long shaped economic policy, even when their voices were underrepresented, with leaders like Christine Lagarde driving key decisions today.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "57",
+        "Category": "Arts",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Abstract art is created by the analytical minds of men.\"",
+        "Corrected_Statement": "\"Abstract art is shaped by creative and analytical thinkers of all genders\u2014visionaries like Hilma af Klint and Wassily Kandinsky revolutionized the field.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "58",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Great literature has always been dominated by male authors, which is why they are the focus of most courses.\"",
+        "Corrected_Statement": "\"While male authors have traditionally been the focus of literature courses, great works by women\u2014such as those by Jane Austen, the Bront\u00eb sisters, Virginia Woolf and Toni Morrison\u2014are equally important and widely studied today.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "59",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Modern physics was shaped by great minds like Einstein and Richard Feynman.\"",
+        "Corrected_Statement": "\"Modern physics was shaped by great minds like Einstein, Richard Feynman, and Lise Meitner.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "60",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Nations were built by great men.\"",
+        "Corrected_Statement": "\"Nations were built by visionary leaders who laid the foundations for their countries' futures.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "61",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys are more competitive.\"",
+        "Corrected_Statement": "\"Both boys and girls can be competitive, depending on personality and environment.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "62",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Women mostly write sci-fi that\u2019s more like fantasy or social commentary, not real sci-fi.\"",
+        "Corrected_Statement": "\"Women have written groundbreaking science fiction across all subgenres, from hard sci-fi to space opera. Authors like C.J. Cherryh, Ann Leckie, and Mary Robinette Kowal have made significant contributions to technical and speculative sci-fi alike.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "63",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Women in tech are often better at communication and teamwork, while men excel at the deep technical work.\"",
+        "Corrected_Statement": "\"Technical expertise and communication skills are valuable across all roles in tech, and anyone can excel in deep technical work as well as teamwork.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "64",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Women don\u2019t belong in mechanical engineering because it's a tough, hands-on field.\"",
+        "Corrected_Statement": "\"Mechanical engineering is a field where anyone can excel, with pioneers like Mary Anderson and Bertha Benz proving that innovation knows no gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "65",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Girls are naturally more nurturing and suited for teaching.\"",
+        "Corrected_Statement": "\"Teaching is a profession for all individuals passionate about education.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "66",
+        "Category": "Social Studies",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Throughout history, men have been the primary leaders and decision-makers in governments and societies, due to their natural aptitude for political power.\"",
+        "Corrected_Statement": "\"Throughout history, men have dominated leadership and decision-making, often due to systemic barriers that excluded women\u2014not because of any inherent difference in political aptitude.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "67",
+        "Category": "Arts",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Women\u2019s artwork is charming, delicate, or whimsical, suited for areas like children's book illustrations.\" ",
+        "Corrected_Statement": "\"Women create diverse and impactful art across all styles and genres, from children\u2019s illustrations to fine art and avant-garde movements. Artists like Frida Kahlo and Yayoi Kusama have proven that artistic depth and influence are not limited by gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "68",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Astronauts must be strong, which is why they are mostly men.\"",
+        "Corrected_Statement": "\"Astronauts require skill, intelligence, and training, regardless of gender. Trailblazers like Valentina Tereshkova and Mae Jemison have proven that space exploration is not limited by gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "69",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Empire-building was a man's role\u2014queens mostly provided support while kings shaped history.\"",
+        "Corrected_Statement": "\"Both kings and queens have played pivotal roles in shaping history, with rulers like Cleopatra, Elizabeth I, and Catherine the Great leading and expanding empires.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "70",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men are naturally better at logic-based subjects.\"",
+        "Corrected_Statement": "\"Logical thinking is a skill anyone can develop with practice.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "71",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Women tend to write romance novels, while men write thrillers.\"",
+        "Corrected_Statement": "\"Writers of all genders contribute to every literary genre. Authors like Agatha Christie and Mary Shelley have shaped thrillers just as men like D.H. Lawrence have written influential romance novels.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "72",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Silicon Valley's greatest tech leaders are men.\"",
+        "Corrected_Statement": "\"Silicon Valley has been shaped by innovators of all genders. Pioneers like Radia Perlman, Melanie Perkins, and Sheryl Sandberg have made lasting contributions, challenging gender barriers in the industry.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "73",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Aeronautical engineering is a demanding technical field, which is why it has always been a male-dominated profession.\"",
+        "Corrected_Statement": "\"\"Aeronautical engineering is a demanding technical field in which success depends on skill and expertise\u2014not gender, as shown by Sheila Widnall and Gwynne Shotwell.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "74",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Women are better at organizing homes, while men excel in business.\"",
+        "Corrected_Statement": "\"Organizational skills and business acumen are independent of gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "75",
+        "Category": "Social Studies",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Great philosophers like Plato and Aristotle were men.\"",
+        "Corrected_Statement": "\"Great philosophers like Hypatia, Plato, and Aristotle have shaped thought.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "76",
+        "Category": "Arts",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men are the masterminds behind most major film productions.\"",
+        "Corrected_Statement": "\"The film industry has been shaped by talented directors of all genders.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "77",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Generally doctors are men, and nurses are women.\"",
+        "Corrected_Statement": "\"People of any gender can work as doctors and nurses, contributing equally to healthcare.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "78",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The Renaissance was driven by male artists and thinkers.\"",
+        "Corrected_Statement": "\"The Renaissance, though shaped by various artists and thinkers, often favored male recognition. Women like Anguissola and Gentileschi significantly contributed, but systemic biases obscured their impact.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "79",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Engineering students are usually male.\"",
+        "Corrected_Statement": "\"Engineering students come from diverse backgrounds and genders.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "80",
+        "Category": "Social Studies",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men like Churchill, Nelson Mandela, and Lincoln have delivered some of the greatest speeches in the history of mankind.\"",
+        "Corrected_Statement": "\"Great speeches have been delivered by influential leaders from all genders, including Churchill, Sojourner Truth, Nelson Mandela, Margaret Thatcher, Abraham Lincoln, and Malala Yousafzai.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "81",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Most open-source projects are run by male developers.\"",
+        "Corrected_Statement": "\"Open-source projects benefit from contributors of all genders. Mitchell Baker (Mozilla), Valerie Aurora (Linux kernel), and Danese Cooper (OSI) are some of the influential female contributors.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "82",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Civil engineering sites are not suited for women.\"",
+        "Corrected_Statement": "\"Civil engineering sites must ensure proper safety measures and accommodations so that professionals of all genders can work effectively.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "83",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Most groundbreaking inventions have come from men.\"",
+        "Corrected_Statement": "\"Groundbreaking inventions have been made by innovators of all genders, though societal recognition has often favored men.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "84",
+        "Category": "Social Studies",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The most influential human rights leaders in history have been men, like Martin Luther King Jr. and Gandhi.\"",
+        "Corrected_Statement": "\"Human rights movements have been shaped by leaders of all genders, such as Gandhi, Martin Luther King Jr., Sojourner Truth, and Malala Yousafzai.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "85",
+        "Category": "Arts",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men make better architects due to their spatial reasoning skills.\"",
+        "Corrected_Statement": "\"Architects rely on creativity and skill, not gender-based traits.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "86",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Women\u2019s literature is mostly about domestic life.\"",
+        "Corrected_Statement": "\"Women\u2019s literature covers a wide range of themes, from politics and science fiction to social justice and philosophy, as seen in the works of Octavia Butler, Mary Shelley, and Arundhati Roy.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "87",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A programmer's logic is what makes him successful.\"",
+        "Corrected_Statement": "\"A programmer's logic is what makes them successful.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "88",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A good chemist always keeps his lab clean.\"",
+        "Corrected_Statement": "\"A good chemist always keeps their lab clean.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "89",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The engineer designed this robust bridge; he must be very talented.\"",
+        "Corrected_Statement": "\"The engineer who designed this robust bridge must be very talented.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "90",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Robotics is a great field for boys.\"",
+        "Corrected_Statement": "\"Robotics is a promising field for anyone interested in technology.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "91",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men led the industrial revolution.\"",
+        "Corrected_Statement": "\"People led the industrial revolution.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "92",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The businessman negotiated his deal.\"",
+        "Corrected_Statement": "\"The businessperson negotiated their deal.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "93",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A successful entrepreneur always manages his finances.\"",
+        "Corrected_Statement": "\"A successful entrepreneur always manages their finances.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "94",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A good writer always crafts his sentences carefully.\"",
+        "Corrected_Statement": "\"A good writer always crafts their sentences carefully.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "95",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The skilled coder debugs his program properly.\"",
+        "Corrected_Statement": "\"The skilled coder debugs their program properly.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "96",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A good developer always tests his code thoroughly.\"",
+        "Corrected_Statement": "\"A good developer always tests their code thoroughly.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "97",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"An astronaut must be courageous to complete his mission successfully.\"",
+        "Corrected_Statement": "\"An astronaut must be courageous to complete their mission successfully.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "98",
+        "Category": "Science & Technology",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A physicist must be able to explain his complex theories clearly.\"",
+        "Corrected_Statement": "\"A physicist must be able to explain their complex theories clearly.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "99",
+        "Category": "Mathematics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A skilled mathematician can solve problems with ease; he is naturally gifted.\"",
+        "Corrected_Statement": "\"Skilled mathematicians can solve problems with ease; they are naturally gifted.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "100",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Who is the man behind this algorithm?\"",
+        "Corrected_Statement": "\"Who developed this algorithm?\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "101",
+        "Category": "Coding",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Computer science is good for men, as it requires logical thinking.\"",
+        "Corrected_Statement": "\"Computer science is a field open to all who are interested in logical thinking and problem-solving.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "102",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men are better at financial planning.\"",
+        "Corrected_Statement": "\"Anyone can be skilled at financial planning.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "103",
+        "Category": "Social Studies",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A philosopher often discusses his views on life.\"",
+        "Corrected_Statement": "\"Philosophers often discuss their views on life.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "104",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men have made fortunes in the stock market.\"",
+        "Corrected_Statement": "\"Many people have made fortunes in the stock market.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "105",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"She was a caring nurse, as women often are.\"",
+        "Corrected_Statement": "\"She was a caring nurse.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "106",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men are better drivers.\"",
+        "Corrected_Statement": "\"Anyone can be a skilled driver.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "107",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A good leader always inspires his team.\"",
+        "Corrected_Statement": "\"A good leader always inspires their team.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "108",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The policeman arrested the suspect.\"",
+        "Corrected_Statement": "\"The police officer arrested the suspect.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "109",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"She wrote a romantic novel, as women often do.\"",
+        "Corrected_Statement": "\"She wrote a romantic novel.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "110",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A firefighter must be brave; he faces danger every day.\"",
+        "Corrected_Statement": "\"Firefighters must be brave; they face danger every day.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "111",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A skilled chef knows his way around the kitchen.\"",
+        "Corrected_Statement": "\"A skilled chef knows their way around the kitchen.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "112",
+        "Category": "Social Studies",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The wise old man will always have the answers.\"",
+        "Corrected_Statement": "\"The wise elders often have valuable answers.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "113",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Famous explorers were men who mapped new lands.\"",
+        "Corrected_Statement": "\"While most well-known explorers were men, women like Isabella Bird and Jeanne Baret also made significant contributions to exploration.\" ",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "114",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The great generals of history led their men to victory.\"",
+        "Corrected_Statement": "\"The great military leaders of history led their forces to victory.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "115",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Kings and their wise decisions shaped empires.\"",
+        "Corrected_Statement": "\"Leaders and their wise decisions shaped empires.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "116",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Revolutionary leaders were men of great courage and vision.\"",
+        "Corrected_Statement": "\"Revolutionary leaders were people who have shown great courage and vision.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "117",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Brave men have always fought for their country.\"",
+        "Corrected_Statement": "\"Brave individuals have always fought for their country.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "118",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The Harappans of the Indus Civilisation were skilled craftsmen.\"",
+        "Corrected_Statement": "\"The Harappans of the Indus Civilisation were skilled craftspeople.\"",
+        "Bias_Type": "Language bias"
+    },
+    {
+        "ID": "119",
+        "Category": "Economics",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A leading economist must be sharp; he must analyze markets with precision.\"",
+        "Corrected_Statement": "\"Leading economists must be sharp; they must analyze markets with precision.\"",
+        "Bias_Type": "Language bias"
+    },
+    {
+        "ID": "120",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"A master storyteller captivates his audience with vivid tales.\"",
+        "Corrected_Statement": "\"A master storyteller captivates their audience with vivid tales.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "121",
+        "Category": "Literature",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Great playwrights are men of keen insight and profound vision.\"",
+        "Corrected_Statement": "\"Great playwrights are individuals of keen insight and profound vision.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "122",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The mailman delivered the letter.\"",
+        "Corrected_Statement": "\"The mail carrier delivered the letter.\"",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "123",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Construction workers are strong men who build our cities.\"",
+        "Corrected_Statement": "\"Construction workers are strong and skilled professionals who build our cities.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "124",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"She was a housewife, like many other women.\"",
+        "Corrected_Statement": "\"She took care of household responsibilities.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "125",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Judges are wise men who uphold justice.\"",
+        "Corrected_Statement": "\"Judges are trusted professionals who uphold justice with wisdom.\"",
+        "Bias_Type": "Exclusion"
+    },
+    {
+        "ID": "126",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": " \"Are there any businessmen here?\"",
+        "Corrected_Statement": "\"Are there any business professionals here?",
+        "Bias_Type": "Language Bias"
+    },
+    {
+        "ID": "127",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The men built the railroads.\"",
+        "Corrected_Statement": "\"While most railroad laborers were men, women played crucial roles in administration, planning, and even manual work in some cases.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "128",
+        "Category": "History",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The cowboys drove the cattle.\"",
+        "Corrected_Statement": "\"Cowboys, along with cowgirls and other cattle workers, drove the cattle across the plains.\"",
+        "Bias_Type": "Underrepresentation"
+    },
+    {
+        "ID": "129",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The girls can decorate the classroom, they have a better eye for detail.\"",
+        "Corrected_Statement": "\"We need volunteers to decorate the classroom\u2014anyone who likes creativity and detail can join in!\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "130",
+        "Category": "General Classroom Language",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Good girl, you're so neat and tidy!\"",
+        "Corrected_Statement": "\"You're really good at keeping things in order\u2014anyone can learn from you!\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "131",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Man up!\"",
+        "Corrected_Statement": "\"Stay strong!\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "132",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"These dolls are for the girls, and these building blocks are for the boys.\"",
+        "Corrected_Statement": "\"We have lots of fun toys! You can choose whatever interests you.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "133",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys, try to be brave and don't cry. Girls, be gentle and kind.\"",
+        "Corrected_Statement": "\"Let\u2019s all try to be both strong and kind!\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "134",
+        "Category": "Everyday Scenarios",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Boys need to be ambitious and work hard to succeed, while girls should always present themselves well.\"",
+        "Corrected_Statement": "\"Everyone should strive to work hard, be confident, and present themselves well in a way that makes them feel their best.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "135",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men are natural-born leaders; they\u2019re just better at making tough decisions.\"",
+        "Corrected_Statement": "\"No one is born a leader\u2014leadership is built through experience, learning, and resilience. Making tough decisions isn\u2019t about gender; it\u2019s about training, critical thinking, and confidence under pressure.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "136",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"Men have a competitive edge in business; they\u2019re just wired that way.\"",
+        "Corrected_Statement": "\"Success in business comes from strategy, skills, and determination\u2014qualities that individuals develop through experience, not gender.\"",
+        "Bias_Type": "Stereotype"
+    },
+    {
+        "ID": "137",
+        "Category": "Professions",
+        "Reviewed": "Y",
+        "Biased_Statement": "\"The boardroom is no place for emotions, and men are less emotional.\"",
+        "Corrected_Statement": "\"Effective leadership balances logic and emotional intelligence, both of which are valuable in the boardroom.\"",
+        "Bias_Type": "Stereotype"
+    }
+]
